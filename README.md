@@ -7,8 +7,8 @@ Não é possível remover ou editar usuários, somente cadastrar e logar, não �
 Ao logar com sucesso, você sera direcionado para a página principal com a mensagem "Seja Bem Vindo".
 
 Abra o terminal em Frontend e digite "npm install" e em seguida "npm run dev" para iniciar o Vite.
-Abra outro terminal em server e digite "node index.js" para iniciar o server e se conectar ao MongoDB
+Abra outro terminal em server e digite "node index.js" para iniciar o server e se conectar ao MongoDB.
 
-Comece por http://localhost:5173/register
+Comece por http://localhost:5173/register.
 
 
